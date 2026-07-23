@@ -10,7 +10,7 @@
       Também possuo vivência com atendimento e relacionamento com clientes na <b>Claro</b>, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
     </td>
     <td align="right" valign="middle" width="400px">
-      <img src="https://raw.githubusercontent.com/Thiagomuniz012/readme-template/main/images/laptop.svg" width="350px" alt="Ilustração Notebook e Café" />
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Ilustração Notebook e Café" />
     </td>
   </tr>
 </table>
