@@ -121,10 +121,6 @@ Também possuo vivência com atendimento e relacionamento com clientes na **Clar
 <br/>
 <br/>
 
----
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
 ### 🔥 Gráfico de Commits e Atividades
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisonBetini&theme=tokyonight&hide_border=false)
