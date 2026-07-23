@@ -136,20 +136,19 @@
 ---
 ### 📬 Entre em contato comigo!
 
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31buzetn5gdbs2sqihuad6ei7vky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
-<p align="left">
   <a href="mailto:devalisonbetini@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alison-betini-334807199/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31buzetn5gdbs2sqihuad6ei7vky&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br>
+
 
 ### 🔥 Gráfico de Commits e Atividades
 
