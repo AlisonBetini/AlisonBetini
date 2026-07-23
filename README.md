@@ -2,11 +2,18 @@
 
 **`Desenvolvedor FullStack | JavaScript & TypeScript`**
 
-Tenho 23 anos e sou **Desenvolvedor de Software** apaixonado pelo ecossistema **JavaScript e TypeScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na FMU**, além de me especializar continuamente através de formações na **Rocketseat**. 
-
-Tenho experiência na criação de aplicações full-stack performáticas, atuando do front-end ao back-end com tecnologias como **React, Next.js, React Native, Node.js e NestJS**, além de componentes modernos como **Shadcn UI** e **Tailwind CSS**.
-
-Também possuo vivência com atendimento e relacionamento com clientes na **Claro**, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
+<table>
+  <tr>
+    <td valign="top">
+      Tenho 23 anos e sou <b>Desenvolvedor de Software</b> apaixonado pelo ecossistema <b>JavaScript e TypeScript</b>. Atualmente, estou cursando <b>Análise e Desenvolvimento de Sistemas na FMU</b>, além de me especializar continuamente através de formações na <b>Rocketseat</b>.<br/><br/>
+      Tenho experiência na criação de aplicações full-stack performáticas, atuando do front-end ao back-end com tecnologias como <b>React, Next.js, React Native, Node.js e NestJS</b>, além de componentes modernos como <b>Shadcn UI</b> e <b>Tailwind CSS</b>.<br/><br/>
+      Também possuo vivência com atendimento e relacionamento com clientes na <b>Claro</b>, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
+    </td>
+    <td align="right" valign="middle" width="400px">
+      <img src="https://raw.githubusercontent.com/Thiagomuniz012/readme-template/main/images/laptop.svg" width="350px" alt="Ilustração Notebook e Café" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
     <a href="https://github.com/AlisonBetini?tab=repositories&sort=stargazers">
@@ -120,6 +127,8 @@ Também possuo vivência com atendimento e relacionamento com clientes na **Clar
 
 <br/>
 <br/>
+
+---
 
 ### 🔥 Gráfico de Commits e Atividades
 
