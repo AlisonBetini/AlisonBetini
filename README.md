@@ -14,7 +14,7 @@
       Tenho experiência na criação de aplicações full-stack performáticas, atuando do front-end ao back-end com tecnologias como <b>React, Next.js, React Native, Node.js e NestJS</b>, além de componentes modernos como <b>Shadcn UI</b> e <b>Tailwind CSS</b>.<br/><br/>
       Também possuo vivência com atendimento e relacionamento com clientes na <b>Claro</b>, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
     </td>
-    <td align="right" valign="middle" width="400px">
+    <td align="right" valign="middle" width="350px">
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" alt="Ilustração Notebook e Café" />
     </td>
   </tr>
