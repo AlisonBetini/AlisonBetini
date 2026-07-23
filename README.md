@@ -1,6 +1,11 @@
 # 👨🏻‍💻 Alison Betini
 
 **`Desenvolvedor FullStack | JavaScript & TypeScript`**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&background=63FF9200&width=435&lines=Welcome+to+my+profile+%3A" alt="Typing SVG">
+  </a>
+</div>
 
 <table>
   <tr>
