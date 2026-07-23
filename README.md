@@ -150,12 +150,21 @@
 
 <br>
 
-
-### 🔥 Gráfico de Commits e Atividades
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisonBetini&theme=tokyonight&hide_border=false)
+<p align="center">
+🔥 Gráfico de Commits e Atividades
+<p/>
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlisonBetini&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+</p>
 
 <br>
+<br>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AlisonBetini&theme=dark&show_icons=true" alt="Alison's GitHub stats" width="49%" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlisonBetini&layout=compact&theme=dark" alt="Top Langs" width="49%" height="165" />
+</p>
 
 
 <picture align="center">
