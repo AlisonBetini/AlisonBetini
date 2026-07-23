@@ -42,17 +42,17 @@
 ### 🤖 Linguagens e Tecnologias
 
 <p align="center">
-  <img alt="HTML5" title="HTML5" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
-  <img alt="CSS3" title="CSS3" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
-  <img alt="JavaScript" title="JavaScript" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
-  <img alt="TypeScript" title="TypeScript" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> &nbsp;
-  <img alt="React" title="React" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
-  <img alt="Next.js" title="Next.js" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> &nbsp;
-  <img alt="Node.js" title="Node.js" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> &nbsp;
-  <img alt="NestJS" title="NestJS" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> &nbsp;
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp;
-  <img alt="Bootstrap" title="Bootstrap" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
-  <img alt="Git" title="Git" width="74" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="HTML5" title="HTML5" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
+  <img alt="CSS3" title="CSS3" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
+  <img alt="TypeScript" title="TypeScript" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> &nbsp;
+  <img alt="React" title="React" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
+  <img alt="Next.js" title="Next.js" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> &nbsp;
+  <img alt="Node.js" title="Node.js" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> &nbsp;
+  <img alt="NestJS" title="NestJS" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> &nbsp;
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp;
+  <img alt="Bootstrap" title="Bootstrap" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> &nbsp;
+  <img alt="Git" title="Git" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
 ---
