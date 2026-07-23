@@ -2,13 +2,24 @@
 
 **`Desenvolvedor FullStack | JavaScript & TypeScript`**
 
-Tenho 23 anos e sou **Desenvolvedor de Software** apaixonado pelo ecossistema **JavaScript e TypeScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na FMU**, além de me especializar continuamente através de formações na **Rocketseat**. 
+<p align="center">
+  Tenho 23 anos e sou **Desenvolvedor de Software** apaixonado pelo ecossistema **JavaScript e TypeScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na FMU**, além de me especializar continuamente através de formações na **Rocketseat**. 
+</p>
+<p align="center">
+  Tenho experiência na criação de aplicações web e mobile modernas e performáticas, atuando do front-end ao back-end com tecnologias como **React, Next.js, React Native, Node.js e NestJS**, além de componentes modernos como **Shadcn UI** e **Tailwind CSS**.
+</p>
+<p align="center">
+  Também possuo vivência com atendimento e relacionamento com clientes na **Claro**, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
+</p>
 
-Tenho experiência na criação de aplicações web e mobile modernas e performáticas, atuando do front-end ao back-end com tecnologias como **React, Next.js, React Native, Node.js e NestJS**, além de componentes modernos como **Shadcn UI** e **Tailwind CSS**.
+<!-- ABAIXO É O CÓDIGO DA IMAGEM CENTRALIZADA -->
+<p align="center">
+  <!-- 💥 INSTRUÇÃO: Substitua 'LINK_DA_SUA_IMAGEM_AQUI' pelo link real da imagem do notebook 💥 -->
+  <img src="LINK_DA_SUA_IMAGEM_AQUI" alt="Ilustração Clean de Desenvolvimento" width="400" />
+</p>
+<!-- FIM DO CÓDIGO DA IMAGEM -->
 
-Também possuo vivência com atendimento e relacionamento com clientes na **Claro**, o que agrega um forte diferencial em comunicação, resolução de problemas e foco na experiência do usuário final. Sempre em busca de evolução contínua, boas práticas de arquitetura e código limpo para transformar ideias em produtos de impacto. 🚀
-
-<p align="left">
+<p align="center">
     <a href="https://github.com/AlisonBetini?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -29,120 +40,25 @@ Também possuo vivência com atendimento e relacionamento com clientes na **Clar
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML5"
-    title="HTML5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NestJS" 
-    title="NestJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NestJS" title="NestJS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/>
 <br/>
 
 ---
 
-### 📊 Estatísticas e Atividade
-
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlisonBetini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonBetini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
 ### 🔥 Gráfico de Commits e Atividades
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisonBetini&theme=tokyonight&hide_border=false)
+<p align="center">
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AlisonBetini&theme=tokyonight&hide_border=false)
+</p>
